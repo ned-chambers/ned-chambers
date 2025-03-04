@@ -5,13 +5,14 @@ Hello! I'm Ned, a Data Analyst passionate about transforming data into actionabl
 ## 🔍 About Me
 
 - **🌍 Based in**: Greater Paris Area, France
-- **🔢 Proficient in**: Python, SQL, Power BI, Dataiku, Azure
+- **🔢 Proficient in**: Python, SQL, Power BI, Tableau, Dataiku
 - **📈 Specialising in**: Data Analysis, Visualisation, and Data Storytelling
 - **🌐 Languages**: Bilingual in English (native) and French (C2); proficient in German, Spanish, and Romanian (B2)
 - **🎓 Certifications**:
   - AZ-900: Azure Fundamentals
   - Dataiku Core, ML Practitioner, and Advanced Practitioner
   - Google Analytics
+  - GitHub Foundations
   - Meta Digital Marketing Associate
 - **🌟 Soft Skills**: Extensive training and coaching experience, strong communication and presentation skills, critical thinking, creative problem-solving, and the ability to collaborate effectively with diverse international teams.
 
