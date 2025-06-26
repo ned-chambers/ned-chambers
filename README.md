@@ -9,6 +9,9 @@ Hello! I'm Ned, a Data Analyst passionate about transforming data into actionabl
 - **📈 Specialising in**: Data Analysis, Visualisation, and Data Storytelling
 - **🌐 Languages**: Bilingual in English (native) and French (C2); proficient in German, Spanish, and Romanian (B2)
 - **🎓 Certifications**:
+  - RNCP35288, "Concepteur Développeur en Science des Données" (Data Science Developer) - French State-recognised professional diploma:
+    - Bloc 2: "Analyse exploratoire, descriptive et inférentielle de données" (Exploratory, descriptive and inferential data analysis)
+    - Bloc 6: "Direction de projets de gestion de données" (Data project management)
   - AZ-900: Azure Fundamentals
   - Dataiku Core, ML Practitioner, and Advanced Practitioner
   - Google Analytics
@@ -28,13 +31,14 @@ Hello! I'm Ned, a Data Analyst passionate about transforming data into actionabl
 
 ## 🔨 Tools & Technologies
 
-- **Programming**: Python (Pandas, Numpy, Matplotlib, Seaborn)
-- **Data Visualisation**: Power BI, Plotly Express, Tableau
+- **Programming**: SQL, Python (Pandas, Numpy)
+- **Data Visualisation**: Power BI, Tableau, Metabase, Python libraries (Matlotlib, Seaborn, Plotly Express)
 - **Cloud Platforms**: Azure, AWS, GCP
-- **Data Platforms**: SQL, Dataiku, Snowflake, dbt
+- **Data Platforms**: Dataiku, Snowflake, dbt
+- **Orchestration & Deployment**: Airflow, Docker
 - **AI**: ChatGPT, Claude, GitHub CoPilot
 - **Analytics**: Google Analytics, Amplify
-- **Other Tools**: Excel, Google Sheets, Git & GitHub
+- **Other Tools**: Excel, Google Sheets, Power Automate, Git & GitHub
 
 ---
 
