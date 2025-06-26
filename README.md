@@ -1,4 +1,4 @@
-Hello! I'm Ned, a Data Analyst passionate about transforming data into actionable insights and compelling stories. I recently completed a state-recognised Lead & Fullstack Data Analyst programme at Jedha Bootcamp, equipping me with advanced skills in SQL, Python, Power BI and Tableau. With over a decade of experience as an educator and trainer, I'm now looking to leverage my strong communication skills to help teams make smarter decisions.
+Hello! I'm Ned, a Data Analyst passionate about transforming data into actionable insights and compelling stories. I recently completed a state-recognised Lead & Fullstack Data Analyst programme at Jedha Bootcamp, equipping me with advanced skills in SQL, Python, Power BI and Tableau. With over a decade of experience as an educator and trainer, I'm now looking to leverage my strong communication skills to help teams turn their data into smarter decisions.
 
 ---
 
