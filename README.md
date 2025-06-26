@@ -33,7 +33,7 @@ Hello! I'm Ned, a Data Analyst passionate about transforming data into actionabl
 - **Programming**: SQL, Python (Pandas, Numpy)
 - **Data Visualisation**: Power BI, Tableau, Metabase, Python libraries (Matlotlib, Seaborn, Plotly Express)
 - **Cloud Platforms**: Azure, AWS, GCP
-- **Data Platforms**: Dataiku, Snowflake, dbt
+- **Data Platforms**: Dataiku, Snowflake, dbt, Fivetran
 - **Orchestration & Deployment**: Airflow, Docker
 - **AI**: ChatGPT, Claude, GitHub CoPilot
 - **Analytics**: Google Analytics, Amplify
