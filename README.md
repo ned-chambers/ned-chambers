@@ -13,8 +13,8 @@ Hello! I'm Ned, a Data Analyst passionate about transforming data into actionabl
     - Bloc 2: "Analyse exploratoire, descriptive et inférentielle de données" (Exploratory, descriptive and inferential data analysis)
     - Bloc 6: "Direction de projets de gestion de données" (Data project management)
   - AZ-900: Azure Fundamentals
-  - Dataiku Core, ML Practitioner, and Advanced Practitioner
-  - Google Analytics
+  - Dataiku Core Designer, ML Practitioner, and Advanced Designer
+  - Google Analytics (GA4)
   - GitHub Foundations
   - Meta Digital Marketing Associate
 - **🌟 Soft Skills**: Extensive training and coaching experience, strong communication and presentation skills, critical thinking, creative problem-solving, and the ability to collaborate effectively with diverse international teams.
