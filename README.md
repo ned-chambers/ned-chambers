@@ -25,7 +25,6 @@ Hello! I'm Ned, a Data Analyst passionate about transforming data into actionabl
 
 - **LinkedIn**: [linkedin.com/in/nedchambers/](https://www.linkedin.com/in/nedchambers/)
 - **Email**: [ned.chambers@gmail.com](ned.chambers@gmail.com)
-- **CV**: [nedchambers.notion.site](https://nedchambers.notion.site/)
 
 ---
 
