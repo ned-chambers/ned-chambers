@@ -12,6 +12,7 @@ Hello! I'm Ned, a Data Analyst passionate about transforming data into actionabl
   - RNCP35288, "Concepteur Développeur en Science des Données" (Data Science Developer) - French State-recognised diploma:
     - Bloc 2: "Analyse exploratoire, descriptive et inférentielle de données" (Exploratory, descriptive and inferential data analysis)
     - Bloc 6: "Direction de projets de gestion de données" (Data project management)
+  - PL-300: Power BI Data Analyst Associate
   - AZ-900: Azure Fundamentals
   - Dataiku Core Designer, ML Practitioner, and Advanced Designer
   - Google Analytics (GA4)
