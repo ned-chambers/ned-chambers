@@ -44,7 +44,7 @@ Hello! I'm Ned, a Data Analyst passionate about transforming data into actionabl
 
 ## 📝 My Story
 
-I’m a Data Analyst with 12 years of experience as a language trainer and academic coordinator, where I developed strong skills in analysing customer needs, simplifying ideas, and delivering tailored insights. Using Python, SQL, and Power BI, I now translate complex data into actionable narratives.
+I’m a Data Analyst with 12 years of experience as a language trainer and academic coordinator, where I developed strong skills in analysing customer needs, simplifying ideas, and delivering tailored insights. Using SQL, Python, and data visualisation tools like Power BI and Metabase, I now translate complex data into actionable narratives.
 
 Those who know me know I am dedicated to technology, pedagogy, and critical thinking. Discovering data storytelling has allowed me to integrate these areas into a meaningful career.
 
