@@ -1,11 +1,13 @@
-Hello! I'm Ned, a Data Analyst passionate about transforming data into actionable insights and compelling stories. I recently completed a state-recognised Lead & Fullstack Data Analyst programme at Jedha Bootcamp, equipping me with advanced skills in SQL, Python, Power BI and Tableau. With over a decade of experience as an educator and trainer, I'm now looking to leverage my strong communication skills to help teams turn their data into smarter decisions.
+Data Analyst with a background in training and education. I joined moka.care because I strongly believe mental health should be treated as a priority in every workplace.
+
+At moka.care, we believe that a healthy mind is the key to success. This is why we support companies and their employees by helping them take care of their mental health, every day.
 
 ---
 
 ## 🔍 About Me
 
 - **🌍 Based in**: Greater Paris Area, France
-- **🔢 Proficient in**: SQL, Python, Power BI
+- **🔢 Proficient in**: SQL, Python, Metabase, Power BI
 - **📈 Specialising in**: Data Analysis, Visualisation, and Data Storytelling
 - **🌐 Languages**: Bilingual in English (native) and French (C2); proficient in German, Spanish, and Romanian (B2)
 - **🎓 Certifications**:
@@ -46,8 +48,6 @@ Hello! I'm Ned, a Data Analyst passionate about transforming data into actionabl
 
 I’m a Data Analyst with 12 years of experience as a language trainer and academic coordinator, where I developed strong skills in analysing customer needs, simplifying ideas, and delivering tailored insights. Using SQL, Python, and data visualisation tools like Power BI and Metabase, I now translate complex data into actionable narratives.
 
-Those who know me know I am dedicated to technology, pedagogy, and critical thinking. Discovering data storytelling has allowed me to integrate these areas into a meaningful career.
-
-Thanks to my experience working for the British Council, I excel in collaborating with diverse international teams and engaging with a wide range of stakeholders. My mission is to harness the power of data to tell compelling stories that drive sustainable action.
+Those who know me know I am dedicated to technology, pedagogy, and critical thinking. Discovering data storytelling has allowed me to integrate these areas into a meaningful career, helping our teams at moka.care to make data-driven decisions that positively impact workplace mental health.
 
 ---
